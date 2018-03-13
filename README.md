@@ -1,4 +1,4 @@
-# polygon-wind
+# Polygon Wind Shader
 Last year I was looking for a wind shader to use on a low poly model, however I couldn't find one that had the visual I was looking for. So I started to develop the Polygon Wind Shader. 
 
 It is supposed to simulate a more suttle organic wind movement on trees (not great for heavy wind effects).
