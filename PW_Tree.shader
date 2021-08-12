@@ -1,5 +1,5 @@
 //--------------------------------------Copyright-------------------------------------//
-// Copyright 2018 Renan Bomtempo
+// Copyright 2021 Renan Bomtempo
 //
 //  Licensed under the Apache License, Version 2.0 (the "License");
 //   you may not use this file except in compliance with the License.
@@ -29,7 +29,7 @@
 // - Blue Vertex Influence.
 
 // Originaly developed by: Renan Bomtempo
-// (https://www.behance.net/renanBomtempo)
+// (https://www.linkedin.com/in/renanbomtempo/)
 
 Shader "Polygon Wind/Tree" {
  
