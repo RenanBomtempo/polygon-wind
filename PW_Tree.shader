@@ -56,7 +56,8 @@ Shader "Polygon Wind/Tree" {
     }
  
     SubShader {
-        
+        Tags { "RenderType"="Opaque" "Queue"="Geometry"}
+
         CGPROGRAM
         #pragma target 3.0
         #pragma surface surf Lambert vertex:vert addshadow
