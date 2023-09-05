@@ -6,8 +6,8 @@ It is designed to generate a more suttle and organic wind movement on trees. But
 
 Here are some videos of what I achieved using it:
 
-  - Using on individual model: https://youtu.be/nG-dmBiyHXc
-  - Using on a Unity Terrain: https://youtu.be/CGLFoZXgCKA
+  - [Using on individual model](https://youtu.be/nG-dmBiyHXc)
+  - [Using on a Unity Terrain](https://youtu.be/CGLFoZXgCKA)
 
 ## How to use it:
 
@@ -29,3 +29,6 @@ It uses a series of inputs to calculate the final vertex position, one of them b
 
   - Red - Use on the branches to enable the up/down movement;
   - Blue - Use it on the leaves to get that organic wiggle.
+
+# Known uses of the shader by other people
+ - [Borrie's Swaying Trees mod for Star Wars Galaxies, by Borrie BoBaka](https://modthegalaxy.com/index.php?resources/borries-swaying-trees.72/).
